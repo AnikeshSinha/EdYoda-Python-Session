@@ -1,0 +1,13 @@
+{
+    "train name": "Shatabdi Express",
+    "passenger list": [
+        "Anikesh2499",
+        "Kunal2599",
+        "xyz2799",
+        "Tushar2045"
+    ],
+    "arrival time": "23:00",
+    "departure time": "23:10",
+    "from": "Bihar",
+    "to": "Jharkhand"
+}

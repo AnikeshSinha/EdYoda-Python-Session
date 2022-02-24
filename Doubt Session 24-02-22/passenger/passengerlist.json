@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": "Anikesh2498",
+        "name": "Anikesh",
+        "age": 24,
+        "gender": "Male",
+        "mobile_no": 9876543210
+    },
+    {
+        "user_id": "Kunal2599",
+        "name": "Kunal",
+        "age": 25,
+        "gender": "Male",
+        "mobile_no": 9854621341
+    },
+    {
+        "user_id": "xyz2799",
+        "name": "xyz",
+        "age": 27,
+        "gender": "Male",
+        "mobile_no": 9973540215
+    },
+    {
+        "user_id": "Tushar2065",
+        "name": "Tushar",
+        "age": 20,
+        "gender": "male",
+        "mobile_no": 6456987123
+    }
+]
